@@ -556,7 +556,7 @@ SOFTWARE.
 
 - **Documentation**: Read this README thoroughly
 - **Issues**: Check existing issues on repository
-- **Email**: sasijarvis@gmail.com.com
+- **Email**: sasijarvis@gmail.com
 
 ### Resources
 
